@@ -20,6 +20,16 @@ https://youtu.be/D028TAAe5H8
 
 ## Changelog
 
+### 2022-02-28
+
+- Changed mining time: On tools, wait for max mining slots full before mining instead of mining every hour
+- General refactoring related to above change
+
+### 2022-02-27
+
+### FORKED here (fredrgrs)
+
+
 ### 16/12/2021
 
 - Now the bot tries to restore work, even if there was an error.
